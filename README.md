@@ -23,6 +23,7 @@
 
   - 3D printing enthusiast
 
+
   <br>
   
 </div>
@@ -33,6 +34,11 @@
   # 🛠️ &nbsp;Languages and Tools
 
 
+
+![Neovim](https://img.shields.io/badge/-Neovim-0D1117?style=flat&logo=neovim)&nbsp;
+    ![C](https://img.shields.io/badge/-C-0D1117?style=flat&logo=C)&nbsp;
+    ![C++](https://img.shields.io/badge/-C++-0D1117?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+    ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
@@ -40,7 +46,7 @@
   ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=flat&logo=amazon-aws)&nbsp;
     ![boto3](https://img.shields.io/badge/-boto3-0D1117?style=flat&logo=amazon-aws)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb)&nbsp;
-    ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat&logo=mysql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat&logo=mysql)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=flat&logo=java)&nbsp;
   ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-0D1117?style=flat&logo=arch-linux)&nbsp;
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-0D1117?style=flat&logo=ubuntu)&nbsp;
@@ -49,7 +55,9 @@
   ![FreeBSD](https://img.shields.io/badge/-FreeBSD-0D1117?style=flat&logo=freebsd)&nbsp;
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-0D1117?style=flat&logo=raspberry-pi)&nbsp;
   ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
+  ![Material UI](https://img.shields.io/badge/-MUI-0D1117?style=flat&logo=material-ui)&nbsp;
   ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
+  ![Tkiner](https://img.shields.io/badge/-Tkiner-0D1117?style=flat&logo=python)&nbsp;
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-0D1117?style=flat&logo=jupyter)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
