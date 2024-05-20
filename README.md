@@ -1,5 +1,5 @@
 
-## Welcome to my profile 👋
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AndrewK0val&color=blueviolet" alt="Profile views" />
@@ -23,7 +23,7 @@
 
 <div align="center" >
 
-  # 🛠️ &nbsp;Languages, Tools and Frameworks
+  ## Languages / Tech I Worked With
 
 
 
@@ -65,22 +65,51 @@
   ![Eagle](https://img.shields.io/badge/-Eagle-0D1117?style=flat&logo=autodesk)&nbsp;
   ![photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=flat&logo=adobe-photoshop)&nbsp;
   ![bash](https://img.shields.io/badge/-bash-0D1117?style=flat&logo=gnu-bash)&nbsp;
+  ![Zsh](https://img.shields.io/badge/-Zsh-0D1117?style=flat&logo=gnu-bash)&nbsp;
+  ![Ruby](https://img.shields.io/badge/-Ruby-0D1117?style=flat&logo=ruby)&nbsp;
+  ![Grafana](https://img.shields.io/badge/-Grafana-0D1117?style=flat&logo=grafana)&nbsp;
+  ![openAPI Swagger](https://img.shields.io/badge/-OpenAPI%20Swagger-0D1117?style=flat&logo=swagger)&nbsp;
+  ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=flat&logo=figma)&nbsp;
 </div>
 
 <div align="center">
 
 
-# ⚙️ Operating Systems
+##  Operating Systems
 
   ![FreeBSD](https://img.shields.io/badge/-FreeBSD-0D1117?style=flat&logo=freebsd)&nbsp;
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-0D1117?style=flat&logo=ubuntu)&nbsp;
   ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-0D1117?style=flat&logo=kali-linux)&nbsp;
   ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=flat&logo=windows)&nbsp;
   ![MacOS](https://img.shields.io/badge/-MacOS-0D1117?style=flat&logo=apple)&nbsp;
-  ![nixOS](https://img.shields.io/badge/-NixOS-0D1117?style=flat&logo=nixos)&nbsp;
   ![fedora](https://img.shields.io/badge/-Fedora-0D1117?style=flat&logo=fedora)&nbsp;
   ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-0D1117?style=flat&logo=arch-linux)&nbsp;
   ![raspbian](https://img.shields.io/badge/-Raspbian-0D1117?style=flat&logo=raspberry-pi)&nbsp;
+
+
+## Stuff I'd Like to Learn
+![Rust](https://img.shields.io/badge/-Rust-0D1117?style=flat&logo=rust)&nbsp;
+![Zig](https://img.shields.io/badge/-Zig-0D1117?style=flat&logo=zig)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=flat&logo=vercel)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat&logo=next.js)&nbsp;
+![OpenBSD](https://img.shields.io/badge/-OpenBSD-0D1117?style=flat&logo=openbsd)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=flat&logo=kubernetes)&nbsp;
+![Electron](https://img.shields.io/badge/-Electron-0D1117?style=flat&logo=electron)&nbsp;
+![Gentoo](https://img.shields.io/badge/-Gentoo-0D1117?style=flat&logo=gentoo)&nbsp;
+![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-0D1117?style=flat&logo=home-assistant)&nbsp;
+![svelte](https://img.shields.io/badge/-Svelte-0D1117?style=flat&logo=svelte)&nbsp;
+![Detectron2](https://img.shields.io/badge/-Detectron2-0D1117?style=flat&logo=pytorch)&nbsp;
+![ARM Assembly](https://img.shields.io/badge/-ARM%20Assembly-0D1117?style=flat&logo=arm)&nbsp;
+![ASM x86](https://img.shields.io/badge/-ASM%20x86-0D1117?style=flat&logo=assemblyscript)&nbsp;
+![pfSense](https://img.shields.io/badge/-pfSense-0D1117?style=flat&logo=pfsense)&nbsp;
+![webpack](https://img.shields.io/badge/-webpack-0D1117?style=flat&logo=webpack)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-0D1117?style=flat&logo=tailwind-css)&nbsp;
+![clerk](https://img.shields.io/badge/-Clerk-0D1117?style=flat&logo=clerk)&nbsp;
+![nixOS](https://img.shields.io/badge/-NixOS-0D1117?style=flat&logo=nixos)&nbsp;
+![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-0D1117?style=flat&logo=design-patterns)&nbsp;
+![kernel Programming](https://img.shields.io/badge/-Kernel%20Programming-0D1117?style=flat&logo=kernel)&nbsp;
+![HTMX](https://img.shields.io/badge/-HTMX-0D1117?style=flat&logo=htmx)&nbsp;
 
 
 
