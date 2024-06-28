@@ -137,15 +137,3 @@
 
 <div>
 
-
-
-<!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
-
-<div>
-  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" ></center>
-</div>
-
-
-
-------
-Credits: [Pepyn0](https://github.com/Pepyn0)
