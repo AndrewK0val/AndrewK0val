@@ -2,11 +2,6 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AndrewK0val&color=blueviolet" alt="Profile views" />
-  &nbsp;
-  <a href="https://github.com/Pepyn0?tab=followers">
-    <img src="https://img.shields.io/github/followers/AndrewK0val?style=social" alt="Followers" />
-  </a>
     <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewK0val&theme=midnight-purple"/></p>
 </p>
 
@@ -27,22 +22,22 @@
 
 
 
-![Neovim](https://img.shields.io/badge/-Neovim-0D1117?style=flat&logo=neovim)&nbsp;
-    ![C](https://img.shields.io/badge/-C-0D1117?style=flat&logo=C)&nbsp;
-    ![C++](https://img.shields.io/badge/-C++-0D1117?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-    ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
-    ![cypress](https://img.shields.io/badge/-Cypress-0D1117?style=flat&logo=cypress)&nbsp;
-    ![GO](https://img.shields.io/badge/-GO-0D1117?style=flat&logo=go)&nbsp;
-    ![jira](https://img.shields.io/badge/-Jira-0D1117?style=flat&logo=jira-software)&nbsp;
-    ![Confluence](https://img.shields.io/badge/-Confluence-0D1117?style=flat&logo=confluence)&nbsp;
-    ![wayland](https://img.shields.io/badge/-Wayland-0D1117?style=flat&logo=wayland)&nbsp;
-    ![X11](https://img.shields.io/badge/-X11-0D1117?style=flat&logo=X.Org)&nbsp;
-    ![R](https://img.shields.io/badge/-R-0D1117?style=flat&logo=R)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![Neovim](https://img.shields.io/badge/-Neovim-0D1117?style=flat&logo=neovim)&nbsp;
+  ![C](https://img.shields.io/badge/-C-0D1117?style=flat&logo=C)&nbsp;
+  ![C++](https://img.shields.io/badge/-C++-0D1117?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
+  ![cypress](https://img.shields.io/badge/-Cypress-0D1117?style=flat&logo=cypress)&nbsp;
+  ![GO](https://img.shields.io/badge/-GO-0D1117?style=flat&logo=go)&nbsp;
+  ![jira](https://img.shields.io/badge/-Jira-0D1117?style=flat&logo=jira-software)&nbsp;
+  ![Confluence](https://img.shields.io/badge/-Confluence-0D1117?style=flat&logo=confluence)&nbsp;
+  ![wayland](https://img.shields.io/badge/-Wayland-0D1117?style=flat&logo=wayland)&nbsp;
+  ![X11](https://img.shields.io/badge/-X11-0D1117?style=flat&logo=X.Org)&nbsp;
+  ![R](https://img.shields.io/badge/-R-0D1117?style=flat&logo=R)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
   ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=flat&logo=amazon-aws)&nbsp;
-    ![boto3](https://img.shields.io/badge/-boto3-0D1117?style=flat&logo=amazon-aws)&nbsp;
+  ![boto3](https://img.shields.io/badge/-boto3-0D1117?style=flat&logo=amazon-aws)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat&logo=mysql)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=flat&logo=java)&nbsp;
@@ -70,6 +65,10 @@
   ![Grafana](https://img.shields.io/badge/-Grafana-0D1117?style=flat&logo=grafana)&nbsp;
   ![openAPI Swagger](https://img.shields.io/badge/-OpenAPI%20Swagger-0D1117?style=flat&logo=swagger)&nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=flat&logo=figma)&nbsp;
+  ![cisco packet tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-0D1117?style=flat&logo=cisco)&nbsp;
+  ![lua](https://img.shields.io/badge/-Lua-0D1117?style=flat&logo=lua)&nbsp;
+  ![postgresql](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
+  ![vite](https://img.shields.io/badge/-Vite-0D1117?style=flat&logo=vite)&nbsp;
 </div>
 
 <div align="center">
@@ -110,6 +109,11 @@
 ![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-0D1117?style=flat&logo=design-patterns)&nbsp;
 ![kernel Programming](https://img.shields.io/badge/-Kernel%20Programming-0D1117?style=flat&logo=kernel)&nbsp;
 ![HTMX](https://img.shields.io/badge/-HTMX-0D1117?style=flat&logo=htmx)&nbsp;
+![Wireshark](https://img.shields.io/badge/-Wireshark-0D1117?style=flat&logo=wireshark)&nbsp;
+![linux from scratch](https://img.shields.io/badge/-Linux%20From%20Scratch-0D1117?style=flat&logo=linux)&nbsp;
+![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)&nbsp;
+![Ocaml](https://img.shields.io/badge/-Ocaml-0D1117?style=flat&logo=ocaml)&nbsp;
+![graphql](https://img.shields.io/badge/-GraphQL-0D1117?style=flat&logo=graphql)&nbsp;
 
 
 
@@ -132,6 +136,13 @@
     <img align="center" alt="AndrewK0val" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewK0val&theme=midnight-purple&layout=compact&count_private=false" />
   </a>
 </div>
+
+<br>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=AndrewK0val&color=blueviolet" alt="Profile views" />
+</div>
+
 
 
 
